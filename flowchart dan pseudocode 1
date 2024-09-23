@@ -1,0 +1,15 @@
+flowchart pola angka:
+
+https://drive.google.com/file/d/1VUXM4u9T0SCjSvAbinCLmd7CNorkLfah/view?usp=sharing
+
+Pseudo code:
+
+BEGIN
+VAR i AS INTEGER
+FOR i AS  7 DOWNTO 1
+    VAR j AS INTEGER
+    FOR j AS TO i
+        PRINT j
+    PRINT newline
+END FOR
+END
