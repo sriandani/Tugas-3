@@ -1,0 +1,14 @@
+flowchart pola bintang bentuk:
+
+https://drive.google.com/file/d/1H4AJmGVjpftAUzqoVInIDtud_SWk-YqC/view?usp=sharing
+
+pseudocode:
+
+BEGIN
+i = 1
+VAR i AS <= 8
+    PRINT (i - 1) spaces
+    PRINT (8 - i) stars
+    PRINT newline
+    i = i + 1
+END
