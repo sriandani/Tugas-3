@@ -1,0 +1,14 @@
+flowchart pola segitiga bintang:
+
+https://drive.google.com/file/d/1z2Qzb3swJ_HdJq2cBCv2vgvuoDz49C8s/view?usp=sharing
+
+pseudocode:
+
+BEGIN
+i = 1
+VAR i AS DOUBLE <= 6
+    PRINT (6 - i) spaces
+    PRINT (i) stars
+    PRINT newline
+    i = i + 1
+END
